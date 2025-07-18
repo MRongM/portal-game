@@ -1,4 +1,5 @@
 const pages = [
-    { title: '随机密码生成', description: 'Make Password Great Again', url: 'https://password.328064.xyz/' , iconUir: '/game-icons/video-game.png'},
+    { title: '艺码空间', description: 'Make Game Great Again', url: 'https://ymkj.344399.xyz/' , iconUir: '/game-icons/video-game.png'},
+    { title: '直到黎明', description: 'Make Game Great Again', url: 'https://until-dawn.344399.xyz/' , iconUir: '/game-icons/video-game.png'},
 ];
 export default pages;
